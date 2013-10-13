@@ -16,10 +16,11 @@ img {
 	height: 300px;
 	width: 300px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	text-align: center;
 }
 
 p {
-	color: #6464D8
+	color: #6464D8;
 	font-family: Garamond;
 	text-align: center;
 }
