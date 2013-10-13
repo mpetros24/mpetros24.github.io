@@ -1,0 +1,25 @@
+body{
+	background-color: #AFBDCA;
+}
+
+h1{
+	font-family: Garamond;
+	font-weight: bold;
+	color: #6464D8;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border: 2px solid white;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+p {
+	color: #6464D8
+	font-family: Garamond;
+	text-align: center;
+}
